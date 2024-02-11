@@ -1,3 +1,4 @@
+<div>
 
   <h2 align="center">Cryptex - Cryptocurrency Website</h2>
 
